@@ -1,0 +1,20 @@
+{
+  "name": "backend-developement",
+  "version": "1.0.0",
+  "description": "This is a backend course by hitesh choudhary ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev":"nodemon src/index.js"
+  },
+  "keywords": [
+    "backend",
+    "hitesh",
+    "parth"
+  ],
+  "author": "Parth Vijayvargiya",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
